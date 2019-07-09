@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeFlow Ibiza October",
-    "currentPage": "page1.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -826,7 +826,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/20190523-10-36-2320190523-100812-2000x1335.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -862,7 +862,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/20190524-19-52-0420190524-101305-2000x1335.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -1022,7 +1022,7 @@
         }
       ]
     },
-    "page1.html": {
+    "gallery.html": {
       "settings": {
         "meta_descr": "",
         "title": "Gallery",
@@ -1567,19 +1567,6 @@
                 "active": false
               },
               {
-                "tags": "Ibiza's Magic Energy",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/20190526-16-27-2920190526-101613-2000x2996.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20190526-16-27-2920190526-101613-2000x2996-800x1198.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1638,6 +1625,19 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/20190525-16-11-3920190525-101569-2000x2996.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20190525-16-11-3920190525-101569-2000x2996-800x1198.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Ibiza's Magic Energy",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20190526-16-27-2920190526-101613-2000x2996.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190526-16-27-2920190526-101613-2000x2996-800x1198.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -2123,7 +2123,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
