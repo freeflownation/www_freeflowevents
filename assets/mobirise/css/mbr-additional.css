@@ -1307,45 +1307,6 @@ body {
 .cid-rysSDRCQqt .mbr-section-btn {
   text-align: center;
 }
-.cid-rymGA6xtM5 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #f9f9f9;
-}
-.cid-rymGA6xtM5 .card-title {
-  letter-spacing: 0.1em;
-  color: #232323;
-  margin: 0;
-  padding-bottom: 1.5rem;
-  text-align: center;
-}
-.cid-rymGA6xtM5 .card {
-  margin-bottom: 2rem;
-}
-.cid-rymGA6xtM5 .card .card-wrapper {
-  height: 100%;
-}
-.cid-rymGA6xtM5 .card-box {
-  padding-top: 2rem;
-}
-.cid-rymGA6xtM5 .card-box p {
-  color: #444;
-  letter-spacing: 0.03em;
-  margin: 0;
-  padding-bottom: 1.5rem;
-}
-.cid-rymGA6xtM5 .mbr-section-title {
-  letter-spacing: 0.1em;
-  margin: 0 auto;
-  margin-bottom: 2rem;
-}
-.cid-rymGA6xtM5 .btn {
-  margin: .3rem;
-}
-.cid-rymGA6xtM5 .card-box > p,
-.cid-rymGA6xtM5 .mbr-section-btn {
-  text-align: center;
-}
 .cid-rysU7edXez {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -1424,16 +1385,59 @@ body {
 .cid-rymHhH2u7I .mbr-section-btn {
   text-align: center;
 }
-.cid-rymIzP50Fx {
+.cid-rymGA6xtM5 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f9f9f9;
+}
+.cid-rymGA6xtM5 .card-title {
+  letter-spacing: 0.1em;
+  color: #232323;
+  margin: 0;
+  padding-bottom: 1.5rem;
+  text-align: center;
+}
+.cid-rymGA6xtM5 .card {
+  margin-bottom: 2rem;
+}
+.cid-rymGA6xtM5 .card .card-wrapper {
+  height: 100%;
+}
+.cid-rymGA6xtM5 .card-box {
+  padding-top: 2rem;
+}
+.cid-rymGA6xtM5 .card-box p {
+  color: #444;
+  letter-spacing: 0.03em;
+  margin: 0;
+  padding-bottom: 1.5rem;
+}
+.cid-rymGA6xtM5 .mbr-section-title {
+  letter-spacing: 0.1em;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+}
+.cid-rymGA6xtM5 .btn {
+  margin: .3rem;
+}
+.cid-rymGA6xtM5 .card-box > p,
+.cid-rymGA6xtM5 .mbr-section-btn {
+  text-align: center;
+}
+.cid-ryu1rk8Ckd {
   padding-top: 120px;
   padding-bottom: 120px;
+  background-image: url("../../../assets/images/20190523-12-34-2820190523-100971-2000x1335-800x534.jpg");
+}
+.cid-ryu1rk8Ckd .mbr-overlay {
   background: #ffffff;
 }
-.cid-rymIzP50Fx .mbr-overlay {
-  background: #232323;
+.cid-ryu1rk8Ckd H1 {
+  color: #000000;
 }
-.cid-rymIzP50Fx .mbr-section-subtitle {
-  color: #cccccc;
+.cid-ryu1rk8Ckd .mbr-text,
+.cid-ryu1rk8Ckd .mbr-section-btn {
+  color: #000000;
 }
 .cid-rymdATG4Ue .dropdown-item:before {
   font-family: MobiriseIcons !important;
@@ -1776,8 +1780,6 @@ body {
   }
 }
 .cid-ryozSi68uo {
-  padding-top: 135px;
-  padding-bottom: 75px;
   background-image: url("../../../assets/images/2018-10-25-16.43.43-1280x960.jpg");
 }
 .cid-ryozSi68uo .mbr-overlay {
@@ -1793,7 +1795,7 @@ body {
 }
 .cid-ryozSi68uo H1 {
   color: #ffffff;
-  text-align: left;
+  text-align: center;
 }
 .cid-ryozSi68uo .mbr-section-subtitle,
 .cid-ryozSi68uo .mbr-section-btn DIV {
@@ -1840,6 +1842,21 @@ body {
   .cid-ryozHygoWa .row-item {
     margin-bottom: 2rem;
   }
+}
+.cid-ryuiwVl00n {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/20190523-12-34-2820190523-100971-2000x1335-800x534.jpg");
+}
+.cid-ryuiwVl00n .mbr-overlay {
+  background: #ffffff;
+}
+.cid-ryuiwVl00n H1 {
+  color: #000000;
+}
+.cid-ryuiwVl00n .mbr-text,
+.cid-ryuiwVl00n .mbr-section-btn {
+  color: #000000;
 }
 .cid-rymdATG4Ue .dropdown-item:before {
   font-family: MobiriseIcons !important;
@@ -2298,6 +2315,48 @@ body {
 .cid-rytez7CVat .mbr-section-btn {
   padding-top: 1rem;
 }
+.cid-ryuebSsVFE {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-ryuebSsVFE .mbr-iconfont {
+  font-size: 48px;
+  transition: color .3s;
+  color: #1dc9cb;
+}
+.cid-ryuebSsVFE .mbr-section-title {
+  margin: 0;
+}
+.cid-ryuebSsVFE .card-img {
+  text-align: center;
+}
+.cid-ryuebSsVFE .mbr-section-subtitle,
+.cid-ryuebSsVFE .mbr-text {
+  color: #8d97ad;
+}
+.cid-ryuebSsVFE .row-item {
+  border-radius: .25rem;
+  background: #ffffff;
+  padding: 2.5rem;
+  -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+}
+@media (max-width: 767px) {
+  .cid-ryuebSsVFE .card-img,
+  .cid-ryuebSsVFE .mbr-text,
+  .cid-ryuebSsVFE .mbr-card-title,
+  .cid-ryuebSsVFE .mbr-section-subtitle,
+  .cid-ryuebSsVFE .mbr-section-title,
+  .cid-ryuebSsVFE .underline {
+    text-align: center !important;
+  }
+}
+@media (max-width: 991px) {
+  .cid-ryuebSsVFE .row-item {
+    margin-bottom: 2rem;
+  }
+}
 .cid-rytiv2oDFK {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -2656,7 +2715,7 @@ body {
 .cid-ryoiEf7DQs {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/spain-island-yacht-coast-ibiza-balearic-560694-1769x995.jpeg");
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-ryoiEf7DQs .mbr-overlay {
   background: #232323;
@@ -3021,6 +3080,52 @@ body {
     text-align: center;
   }
 }
+.cid-ryufsL2Hnd {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-ryufsL2Hnd .mbr-iconfont {
+  font-size: 48px;
+  transition: color .3s;
+  color: #1dc9cb;
+}
+.cid-ryufsL2Hnd .mbr-section-title {
+  margin: 0;
+}
+.cid-ryufsL2Hnd .card-img {
+  text-align: center;
+}
+.cid-ryufsL2Hnd .mbr-section-subtitle,
+.cid-ryufsL2Hnd .mbr-text {
+  color: #8d97ad;
+}
+.cid-ryufsL2Hnd .row-item {
+  border-radius: .25rem;
+  background: #ffffff;
+  padding: 2.5rem;
+  -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+}
+@media (max-width: 767px) {
+  .cid-ryufsL2Hnd .card-img,
+  .cid-ryufsL2Hnd .mbr-text,
+  .cid-ryufsL2Hnd .mbr-card-title,
+  .cid-ryufsL2Hnd .mbr-section-subtitle,
+  .cid-ryufsL2Hnd .mbr-section-title,
+  .cid-ryufsL2Hnd .underline {
+    text-align: center !important;
+  }
+}
+@media (max-width: 991px) {
+  .cid-ryufsL2Hnd .row-item {
+    margin-bottom: 2rem;
+  }
+}
+.cid-ryufsL2Hnd .mbr-card-title,
+.cid-ryufsL2Hnd .card-img {
+  color: #54cfb3;
+}
 .cid-rymdATG4Ue .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
@@ -3364,7 +3469,7 @@ body {
 .cid-ryot0sugOH {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/ibiza-town-1920x1080.jpeg");
+  background-image: url("../../../assets/images/spain-island-yacht-coast-ibiza-balearic-560695-2000x1125.jpeg");
 }
 .cid-ryot0sugOH .mbr-overlay {
   background: #232323;
@@ -3488,6 +3593,52 @@ body {
   .cid-ryottX4U2h p.date {
     text-align: center;
   }
+}
+.cid-ryugayJVUa {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-ryugayJVUa .mbr-iconfont {
+  font-size: 48px;
+  transition: color .3s;
+  color: #1dc9cb;
+}
+.cid-ryugayJVUa .mbr-section-title {
+  margin: 0;
+}
+.cid-ryugayJVUa .card-img {
+  text-align: center;
+}
+.cid-ryugayJVUa .mbr-section-subtitle,
+.cid-ryugayJVUa .mbr-text {
+  color: #8d97ad;
+}
+.cid-ryugayJVUa .row-item {
+  border-radius: .25rem;
+  background: #ffffff;
+  padding: 2.5rem;
+  -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+}
+@media (max-width: 767px) {
+  .cid-ryugayJVUa .card-img,
+  .cid-ryugayJVUa .mbr-text,
+  .cid-ryugayJVUa .mbr-card-title,
+  .cid-ryugayJVUa .mbr-section-subtitle,
+  .cid-ryugayJVUa .mbr-section-title,
+  .cid-ryugayJVUa .underline {
+    text-align: center !important;
+  }
+}
+@media (max-width: 991px) {
+  .cid-ryugayJVUa .row-item {
+    margin-bottom: 2rem;
+  }
+}
+.cid-ryugayJVUa .mbr-card-title,
+.cid-ryugayJVUa .card-img {
+  color: #54cfb3;
 }
 .cid-rymdATG4Ue .dropdown-item:before {
   font-family: MobiriseIcons !important;
@@ -4333,7 +4484,7 @@ body {
 .cid-ryoeZeDBQ7 {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/mbr-1-1920x1079.jpeg");
+  background-image: url("../../../assets/images/20190523-20-43-4120190523-101115-2000x1335.jpg");
 }
 .cid-ryoeZeDBQ7 .mbr-overlay {
   background: #444444;
@@ -4443,6 +4594,38 @@ body {
 }
 .cid-ryoijrR5pU .mbr-section-subtitle {
   color: #e3e3e3;
+}
+.cid-ryuj1s7brH {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #f4f8fa;
+}
+.cid-ryuj1s7brH .mbr-section-subtitle {
+  color: #8d97ad;
+}
+.cid-ryuj1s7brH .video-block {
+  margin: auto;
+}
+@media (max-width: 767px) {
+  .cid-ryuj1s7brH .video-block {
+    width: 100% !important;
+  }
+}
+.cid-ryujuFXhyO {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #f4f8fa;
+}
+.cid-ryujuFXhyO .mbr-section-subtitle {
+  color: #8d97ad;
+}
+.cid-ryujuFXhyO .video-block {
+  margin: auto;
+}
+@media (max-width: 767px) {
+  .cid-ryujuFXhyO .video-block {
+    width: 100% !important;
+  }
 }
 .cid-rymdATG4Ue .dropdown-item:before {
   font-family: MobiriseIcons !important;
@@ -4834,37 +5017,6 @@ body {
     margin-bottom: 2rem;
   }
 }
-.cid-ryoe4nXhSv {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-ryoe4nXhSv .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-ryoe4nXhSv .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-ryoe4nXhSv .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-ryoe4nXhSv .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-ryoe4nXhSv .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
 .cid-ryoejRC8OP {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -5236,24 +5388,13 @@ body {
 .cid-rymfDz5bBW .mbr-section-btn {
   color: #ffffff;
 }
-.cid-rymioOpb1T {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background: linear-gradient(90deg, #04367c, #1dc9cb);
-}
-.cid-rymioOpb1T .mbr-overlay {
-  background: #2bdc9d;
-}
-.cid-rymioOpb1T .mbr-section-subtitle {
-  color: #e3e3e3;
-}
 .cid-rymjP0hBnn {
-  padding-top: 60px;
+  padding-top: 75px;
   padding-bottom: 60px;
   background: #54cfb3;
 }
 .cid-rymjP0hBnn .mbr-section-subtitle {
-  color: #8d97ad;
+  color: #ffffff;
 }
 .cid-rymjP0hBnn .video-block {
   margin: auto;
@@ -5494,4 +5635,7 @@ body {
 }
 .cid-ryo8meApHD .mbr-section-subtitle {
   color: #cccccc;
+}
+.cid-ryo8meApHD H1 {
+  color: #444444;
 }
