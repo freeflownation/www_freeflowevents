@@ -5547,7 +5547,7 @@ body {
   background-image: url("../../../assets/images/wave.gif");
 }
 .cid-rymfDz5bBW .mbr-overlay {
-  background: #51aafa;
+  background: #3b7cb7;
 }
 .cid-rymfDz5bBW .mbr-section-subtitle {
   color: #e3e3e3;
@@ -5555,6 +5555,13 @@ body {
 .cid-rymfDz5bBW .mbr-section-subtitle,
 .cid-rymfDz5bBW .mbr-section-btn {
   color: #ffffff;
+}
+.cid-rymfDz5bBW .mbr-section-subtitle,
+.cid-rymfDz5bBW .mbr-section-btn DIV {
+  text-align: center;
+}
+.cid-rymfDz5bBW H1 {
+  text-align: center;
 }
 .cid-rymjP0hBnn {
   padding-top: 75px;
