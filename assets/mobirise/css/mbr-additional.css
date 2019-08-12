@@ -1261,7 +1261,7 @@ body {
 .cid-rymweqxWEk {
   padding-top: 135px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/tt55-9dn-2000x1335.jpg");
+  background-image: url("../../../assets/images/batch-1-26-van-130-2000x1250.jpeg");
 }
 .cid-rymweqxWEk .mbr-overlay {
   background: #51aafa;
@@ -1269,6 +1269,10 @@ body {
 }
 .cid-rymweqxWEk .mbr-section-subtitle {
   color: #e3e3e3;
+}
+.cid-rymweqxWEk .mbr-section-subtitle,
+.cid-rymweqxWEk .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-rysSDRCQqt {
   padding-top: 90px;
