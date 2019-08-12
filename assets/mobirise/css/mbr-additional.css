@@ -1259,19 +1259,25 @@ body {
   }
 }
 .cid-rymweqxWEk {
-  background-image: url("../../../assets/images/tt55-9dn-2000x1335.jpg");
+  padding-top: 135px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/batch-1-26-van-130-2000x1250.jpeg");
 }
 .cid-rymweqxWEk .mbr-overlay {
-  background: #04367c;
-  background: linear-gradient(90deg, #04367c, #08579f);
+  background: #51aafa;
+  background: linear-gradient(90deg, #51aafa, #ffffff);
 }
 .cid-rymweqxWEk .mbr-section-subtitle {
   color: #e3e3e3;
 }
+.cid-rymweqxWEk .mbr-section-subtitle,
+.cid-rymweqxWEk .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-rysSDRCQqt {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #f4f8fa;
 }
 .cid-rysSDRCQqt .card-title {
   letter-spacing: 0.1em;
@@ -1310,7 +1316,7 @@ body {
 .cid-rysU7edXez {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #f9f9f9;
+  background-color: #f4f8fa;
 }
 .cid-rysU7edXez .card-title {
   letter-spacing: 0.1em;
@@ -1349,7 +1355,7 @@ body {
 .cid-rymHhH2u7I {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #f9f9f9;
+  background-color: #f4f8fa;
 }
 .cid-rymHhH2u7I .card-title {
   letter-spacing: 0.1em;
@@ -1388,7 +1394,7 @@ body {
 .cid-rymGA6xtM5 {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #f9f9f9;
+  background-color: #f4f8fa;
 }
 .cid-rymGA6xtM5 .card-title {
   letter-spacing: 0.1em;
