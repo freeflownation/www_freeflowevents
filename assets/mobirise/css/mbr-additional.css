@@ -1168,7 +1168,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #5eeebb;
 }
 .cid-rymdATG4Ue button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3438,6 +3438,9 @@ body {
 .cid-ryottzZQQT .mbr-section-btn {
   color: #444444;
 }
+.cid-ryottzZQQT .list DIV {
+  text-align: left;
+}
 .cid-ryottX4U2h {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -5021,10 +5024,6 @@ body {
   padding-top: 120px;
   padding-bottom: 75px;
   background-image: url("../../../assets/images/mbr-1920x867.jpg");
-}
-.cid-ryocur8Rgo .main-row {
-  -webkit-flex-direction: row-reverse;
-  flex-direction: row-reverse;
 }
 .cid-ryocur8Rgo .row {
   -webkit-justify-content: flex-end;
