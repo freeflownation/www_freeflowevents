@@ -1168,7 +1168,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #5eeebb;
+  background-color: #ffffff;
 }
 .cid-rymdATG4Ue button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2972,6 +2972,14 @@ body {
   .cid-ryopAsVoHH p.date {
     text-align: center;
   }
+}
+.cid-rAr9XNKJJl {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rAr9XNKJJl .mbr-section-subtitle {
+  color: #000000;
 }
 .cid-ryufsL2Hnd {
   padding-top: 30px;
