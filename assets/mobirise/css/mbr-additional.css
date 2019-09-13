@@ -11447,7 +11447,7 @@ body {
 }
 .cid-rBLXkBKEzH {
   padding-top: 135px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background: linear-gradient(90deg, #ffffff, #ffffff);
 }
 .cid-rBLXkBKEzH .mbr-overlay {
@@ -11469,7 +11469,7 @@ body {
   text-align: left;
 }
 .cid-rBLXeDP1mZ {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
@@ -11677,4 +11677,27 @@ body {
   .cid-rBLXeDP1mZ .carousel-inner.slides6 .cloneditem-5 {
     display: block;
   }
+}
+.cid-rBXc6BVrew {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: linear-gradient(90deg, #ffffff, #ffffff);
+}
+.cid-rBXc6BVrew .mbr-overlay {
+  background: #ba3f35;
+}
+.cid-rBXc6BVrew .mbr-section-subtitle {
+  color: #e3e3e3;
+}
+.cid-rBXc6BVrew .mbr-section-subtitle,
+.cid-rBXc6BVrew .mbr-section-btn {
+  color: #000000;
+}
+.cid-rBXc6BVrew H1 {
+  color: #444444;
+  text-align: left;
+}
+.cid-rBXc6BVrew .mbr-section-subtitle,
+.cid-rBXc6BVrew .mbr-section-btn DIV {
+  text-align: left;
 }
