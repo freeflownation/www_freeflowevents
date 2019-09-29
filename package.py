@@ -3,7 +3,7 @@ from Jumpscale import j
 class Package(j.baseclasses.threebot_package):
     """
     to start need to run 
-    kosmos -p "j.tools.threebot_packages.get('freeflowevent',giturl='https://github.com/freeflownation/www_freeflowevent.git',branch='master')"
+    kosmos -p "j.tools.threebot_packages.get('freeflowevent',giturl='https://github.com/freeflownation/www_freeflowevent.git',branch='development')"
     kosmos -p "j.servers.threebot.default.start(web=True, ssl=False)"
     """
     def _init(self, **kwargs):
